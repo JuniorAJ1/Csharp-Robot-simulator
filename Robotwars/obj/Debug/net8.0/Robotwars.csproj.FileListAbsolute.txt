@@ -1,0 +1,14 @@
+/Users/juniorajala/altrata/Robotwars/bin/Debug/net8.0/Robotwars
+/Users/juniorajala/altrata/Robotwars/bin/Debug/net8.0/Robotwars.deps.json
+/Users/juniorajala/altrata/Robotwars/bin/Debug/net8.0/Robotwars.runtimeconfig.json
+/Users/juniorajala/altrata/Robotwars/bin/Debug/net8.0/Robotwars.dll
+/Users/juniorajala/altrata/Robotwars/bin/Debug/net8.0/Robotwars.pdb
+/Users/juniorajala/altrata/Robotwars/obj/Debug/net8.0/Robotwars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juniorajala/altrata/Robotwars/obj/Debug/net8.0/Robotwars.AssemblyInfoInputs.cache
+/Users/juniorajala/altrata/Robotwars/obj/Debug/net8.0/Robotwars.AssemblyInfo.cs
+/Users/juniorajala/altrata/Robotwars/obj/Debug/net8.0/Robotwars.csproj.CoreCompileInputs.cache
+/Users/juniorajala/altrata/Robotwars/obj/Debug/net8.0/Robotwars.dll
+/Users/juniorajala/altrata/Robotwars/obj/Debug/net8.0/refint/Robotwars.dll
+/Users/juniorajala/altrata/Robotwars/obj/Debug/net8.0/Robotwars.pdb
+/Users/juniorajala/altrata/Robotwars/obj/Debug/net8.0/Robotwars.genruntimeconfig.cache
+/Users/juniorajala/altrata/Robotwars/obj/Debug/net8.0/ref/Robotwars.dll
