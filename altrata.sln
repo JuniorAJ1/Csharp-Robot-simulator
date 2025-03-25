@@ -1,8 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robotwars", "Robotwars\Robotwars.csproj", "{0E478D25-FA65-E2BB-FDC8-FE2DFE98A986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars.Tests", "RobotWars.Tests\RobotWars.Tests.csproj", "{D4F629CD-E74B-4DBB-90CD-2B7CCABA4006}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{0E478D25-FA65-E2BB-FDC8-FE2DFE98A986}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E478D25-FA65-E2BB-FDC8-FE2DFE98A986}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E478D25-FA65-E2BB-FDC8-FE2DFE98A986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F629CD-E74B-4DBB-90CD-2B7CCABA4006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F629CD-E74B-4DBB-90CD-2B7CCABA4006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F629CD-E74B-4DBB-90CD-2B7CCABA4006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F629CD-E74B-4DBB-90CD-2B7CCABA4006}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
