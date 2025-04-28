@@ -1,6 +1,6 @@
 ﻿
 //Junior Ajala
-// Altrata take-home assesment 
+
 namespace RobotWars
 {
     class Program
